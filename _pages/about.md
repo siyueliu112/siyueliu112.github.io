@@ -38,7 +38,7 @@ Preprints
 
 Teachings
 ======
-TAs
+TAing
 ------
 *Integer Programming, Ph.D. CMU, Spring 2024
 *Integer Programming and Combinatorial Optimization, Ph.D. SJTU, Spring 2022
