@@ -25,7 +25,7 @@ Conference Publications
 1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *Integer Programming and Combinatorial Optimization (IPCO) 2024*\
-   **best paper**
+   **Best Paper Award**
 1. [On the Congruency-Constrained Matroid Base](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_21)\
    *with [Chao Xu](https://chaoxu.prof/)*\
    *Integer Programming and Combinatorial Optimization (IPCO) 2024*
@@ -45,3 +45,7 @@ TAing
 * Integer Programming, Ph.D., CMU, Grader, Spring 2024
 * Integer Programming and Combinatorial Optimization, Ph.D., SJTU, Taught recitation, Spring 2022
 * Optimization Methods in Economics, Undergrad, SJTU, Taught recitation, Spring 2021
+
+Misc
+======
+I'm a martial art practitioner and I'm particularly enthusiastic about Chinese Kung Fu, including but not limited to Wing Chun, Xing Yi and Tai Chi.
