@@ -13,11 +13,25 @@ I graduated from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 202
 
 Publications
 ======
+Journal Publications
+======
+1. [Convexification techniques for fractional programs](https://link.springer.com/article/10.1007/s10107-024-02131-x)\
+   *with [Taotao He](https://taotaoohe.github.io/) and [Mohit Tawarmalani](https://www.mohit.prof/)*\
+   *Mathematical Programming Series A 2024*
+   
+Conference Publications
+======
 1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
-   <span style="color:red">best paper</span>.
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+   *Integer Programming and Combinatorial Optimization (IPCO) 2024*\
+   **best paper**
+1. [On the Congruency-Constrained Matroid Base](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_21)\
+   *with [Chao Xu](https://chaoxu.prof/)*\
+   *Integer Programming and Combinatorial Optimization (IPCO) 2024*
+   
+Preprints
+======
+1. [Strongly connected orientations and integer lattices](https://arxiv.org/pdf/2410.13665)\
+   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*
+1. [A Short Proof of Tight Bounds on the Smallest Support Size of Integer Solutions to Linear Equations](https://arxiv.org/pdf/2307.08826)\
+   *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*
