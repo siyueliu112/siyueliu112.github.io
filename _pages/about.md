@@ -33,10 +33,10 @@ Conference Publications
 Preprints
 ------
 1. [Strongly Connected Orientations and Integer Lattices](https://arxiv.org/pdf/2410.13665)\
-   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*
+   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*\
    *ArXiv preprint, 2024*
 1. [A Short Proof of Tight Bounds on the Smallest Support Size of Integer Solutions to Linear Equations](https://arxiv.org/pdf/2307.08826)\
-   *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*
+   *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*\
    *Accepted to Mathematical Programming Series A with minor revision, 2023*
 
 Teachings
