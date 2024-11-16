@@ -13,9 +13,9 @@ I graduated from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 202
 
 Publications
 ======
-1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)
-   *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*
-   <span style="color:blue">some best paper text</span>.
+1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
+   *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
+   <span style="color:blue">best paper</span>.
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
