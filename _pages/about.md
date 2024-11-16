@@ -13,6 +13,7 @@ I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/)
 
 Publications
 ======
+
 Journal Publications
 ------
 1. [Convexification Techniques for Fractional Programs](https://link.springer.com/article/10.1007/s10107-024-02131-x)\
@@ -38,6 +39,7 @@ Preprints
 
 Teachings
 ======
+
 TAing
 ------
 * Integer Programming, Ph.D., CMU, Grader, Spring 2024
