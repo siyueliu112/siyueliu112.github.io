@@ -19,7 +19,7 @@ Journal Publications
 ------
 1. [A Short Proof of Tight Bounds on the Smallest Support Size of Integer Solutions to Linear Equations](https://arxiv.org/pdf/2307.08826)\
    *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*\
-   *Accepted to Mathematical Programming Series A, 2025*
+   *Mathematical Programming Series A, 2025 (to appear)*
 1. [Assortment Optimization Under the Multinomial Logit Choice Model with Product-specific Capacities](https://www.sciencedirect.com/science/article/pii/S0167637724001743)\
    *with [Woonghee Tim Huh](https://www.sauder.ubc.ca/people/tim-huh)*\
    *Operations Research Letters, 2025*
@@ -31,7 +31,7 @@ Conference Publications
 ------
 1. [Strongly Connected Orientations and Integer Lattices](https://arxiv.org/pdf/2410.13665)\
    *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*\
-   *Accepted to Integer Programming and Combinatorial Optimization (IPCO), 2025*
+   *Integer Programming and Combinatorial Optimization (IPCO), 2025 (to appear)*
 1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *Integer Programming and Combinatorial Optimization (IPCO), 2024*\
