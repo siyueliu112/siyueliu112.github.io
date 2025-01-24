@@ -20,7 +20,7 @@ Journal Publications
 1. [A Short Proof of Tight Bounds on the Smallest Support Size of Integer Solutions to Linear Equations](https://arxiv.org/pdf/2307.08826)\
    *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*\
    *Accepted to Mathematical Programming Series A, 2025*
-1. [Assortment optimization under the multinomial logit choice model with product-specific capacities](https://www.sciencedirect.com/science/article/pii/S0167637724001743)\
+1. [Assortment Optimization Under the Multinomial Logit Choice Model with Product-specific Capacities](https://www.sciencedirect.com/science/article/pii/S0167637724001743)\
    *with [Woonghee Tim Huh](https://www.sauder.ubc.ca/people/tim-huh)*\
    *Operations Research Letters, 2025*
 1. [Convexification Techniques for Fractional Programs](https://link.springer.com/article/10.1007/s10107-024-02131-x)\
