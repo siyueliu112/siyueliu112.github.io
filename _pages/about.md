@@ -42,7 +42,7 @@ Conference Publications
    
 Preprints
 ------
-1. [Packing Dijoins in Weighted Chordal Digraphs](https://arxiv.org/abs/2501.10918)
+1. [Packing Dijoins in Weighted Chordal Digraphs](https://arxiv.org/abs/2501.10918)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *Arxiv preprint, 2025*
 
