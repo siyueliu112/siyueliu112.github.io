@@ -51,7 +51,7 @@ Teachings
 
 TAing
 ------
-* Integer Programming, Ph.D., CMU, Grader, Spring 2024
+* Integer Programming, Ph.D., CMU, Grader, Spring 2024, 2025
 * Integer Programming and Combinatorial Optimization, Ph.D., SJTU, Taught recitation, Spring 2022
 * Optimization Methods in Economics, Undergrad, SJTU, Taught recitation, Spring 2021
 
