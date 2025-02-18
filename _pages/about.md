@@ -32,7 +32,7 @@ Journal Publications
 ------
 1. [On the smallest support size of integer solutions to linear equations](https://link.springer.com/article/10.1007/s10107-025-02202-7)\
    *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*\
-   *Mathematical Programming Series A, 2025 (to appear)*
+   *Mathematical Programming Series A, 2025*
 1. [Assortment Optimization Under the Multinomial Logit Choice Model with Product-specific Capacities](https://www.sciencedirect.com/science/article/pii/S0167637724001743)\
    *with [Woonghee Tim Huh](https://www.sauder.ubc.ca/people/tim-huh)*\
    *Operations Research Letters, 2025*
