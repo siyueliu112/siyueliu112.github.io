@@ -17,6 +17,9 @@ Publications
 
 Conference Publications
 ------
+1. [Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations](https://arxiv.org/abs/2504.18767)\
+   *with [Karthik Chandrasekaran](https://karthik.ise.illinois.edu/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
+   *International Colloquium on Automata, Languages and Programming (ICALP), 2025 (to appear)*
 1. [Strongly Connected Orientations and Integer Lattices](https://arxiv.org/pdf/2410.13665)\
    *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*\
    *Integer Programming and Combinatorial Optimization (IPCO), 2025 (to appear)*
