@@ -17,12 +17,12 @@ Publications
 
 Conference Publications
 ------
-1. [Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations](https://arxiv.org/abs/2504.18767)\
+1. [Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations](https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.46/LIPIcs.ICALP.2025.46.pdf)\
    *with [Karthik Chandrasekaran](https://karthik.ise.illinois.edu/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
-   *International Colloquium on Automata, Languages and Programming (ICALP), 2025 (to appear)*
-1. [Strongly Connected Orientations and Integer Lattices](https://arxiv.org/pdf/2410.13665)\
+   *International Colloquium on Automata, Languages and Programming (ICALP), 2025*
+1. [Strongly Connected Orientations and Integer Lattices](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_1)\
    *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*\
-   *Integer Programming and Combinatorial Optimization (IPCO), 2025 (to appear)*
+   *Integer Programming and Combinatorial Optimization (IPCO), 2025*
 1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *Integer Programming and Combinatorial Optimization (IPCO), 2024*\
@@ -33,6 +33,9 @@ Conference Publications
 
 Journal Publications
 ------
+1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/article/10.1007/s00493-025-00159-x)\
+   *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
+   *Combinatorica, 2025*
 1. [On the Smallest Support Size of Integer Solutions to Linear Equations](https://link.springer.com/article/10.1007/s10107-025-02202-7)\
    *with [Yatharth Dubey](https://sites.google.com/view/yatharthdubey/)*\
    *Mathematical Programming Series A, 2025*
