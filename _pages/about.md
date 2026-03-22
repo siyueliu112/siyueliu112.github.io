@@ -9,22 +9,24 @@ redirect_from:
 
 Hi, welcome to my website! I'm Siyue Liu (刘思月), a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) [Tepper School of Business](https://www.cmu.edu/tepper/). I'm in the [Algorithms, Combinatorics and Optimization (ACO)](https://aco.math.cmu.edu/) Program. I am very fortunate to work with Professors [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/). I am broadly interested in combinatorial optimization, approximation algorithms, integer programming and nonconvex optimization.
 
-I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in 2022 with a Bachelor in Economics, where Professor [Taotao He](https://taotaoohe.github.io/) guided me to the world of optimization. I visited Professor [Ahmad Abdi](https://ahmadabdi.com/) at [London School of Economics (LSE)](https://www.lse.ac.uk/mathematics) Math department in Fall 2023. I was a research intern at Microsoft Research, Redmond, in the [Algorithms group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/) in Summer 2025, mentored by [Victor Reis](https://www.microsoft.com/en-us/research/people/victorol/).
-Besides, I'm grateful to the mentorship and guidance from Professors [Christopher Thomas Ryan](https://christopher-thomas-ryan.github.io/), [Tim Huh](https://www.sauder.ubc.ca/people/tim-huh) and [Fatma Kılınç-Karzan](https://www.andrew.cmu.edu/user/fkilinc/) and many others along the way.
+I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in 2022 with a Bachelor in Economics, where Professor [Taotao He](https://taotaoohe.github.io/) guided me to the world of optimization. I was a research intern at Microsoft Research, Redmond, in the [Algorithms group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/) in Summer 2025, mentored by [Victor Reis](https://www.microsoft.com/en-us/research/people/victorol/). During my Ph.D., I long-term visited [London School of Economics (LSE)](https://www.lse.ac.uk/mathematics) in Fall 2023, hosted by Professor [Ahmad Abdi](https://ahmadabdi.com/), [University of Bonn](https://www.uni-bonn.de/en/home) in Fall 2025, hosted by Professor [László Végh](https://www.laszlovegh.eu/), and [Eötvös Loránd University](https://berkri.web.elte.hu/) in Spring 2026, hosted by Professor [Kristóf Bérczi](https://berkri.web.elte.hu/). Besides, I'm grateful to the mentorship and guidance from Professors [Christopher Thomas Ryan](https://christopher-thomas-ryan.github.io/), [Tim Huh](https://www.sauder.ubc.ca/people/tim-huh) and [Fatma Kılınç-Karzan](https://www.andrew.cmu.edu/user/fkilinc/) and many others in the early stage of my career.
 
 Publications
 ======
 
 Conference Publications
 ------
-1. [Weighted Chairman Assignment and Flow-Time Scheduling](https://www.arxiv.org/abs/2511.18546)\
-   *with [Victor Reis](https://www.microsoft.com/en-us/research/people/victorol/)*\
-   *Innovations in Theoretical Computer Science (ITCS), 2026 (to appear)*
+1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://arxiv.org/abs/2603.17424)\
+   *with [Olha Silina](https://sites.google.com/view/olha-silina/)*\
+   *Integer Programming and Combinatorial Optimization (IPCO), 2026 (to appear)*
+1. [Weighted Chairman Assignment and Flow-Time Scheduling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.98)\
+   *with [Victor Reis](https://victoreis.github.io/)*\
+   *Innovations in Theoretical Computer Science (ITCS), 2026*
 1. [Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations](https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.46/LIPIcs.ICALP.2025.46.pdf)\
    *with [Karthik Chandrasekaran](https://karthik.ise.illinois.edu/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *International Colloquium on Automata, Languages and Programming (ICALP), 2025*
 1. [Strongly Connected Orientations and Integer Lattices](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_1)\
-   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and Olha Silina*\
+   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [Olha Silina](https://sites.google.com/view/olha-silina/)*\
    *Integer Programming and Combinatorial Optimization (IPCO), 2025*
 1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
@@ -51,6 +53,8 @@ Journal Publications
    
 Preprints
 ------
+1. [Matroids are Equitable](https://arxiv.org/abs/2507.12100)\
+   *with [Hannaneh Akrami](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/hannaneh-akrami), [Rosha Raj](https://sites.google.com/view/roshan-raj) and [László Végh](https://www.laszlovegh.eu/)*
 1. [Packing Dijoins in Weighted Chordal Digraphs](https://arxiv.org/abs/2501.10918)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *Arxiv preprint, 2025*
