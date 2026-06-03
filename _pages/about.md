@@ -42,10 +42,10 @@ Journal Publications
 ------
 1. [Matroids are Equitable](https://link.springer.com/article/10.1007/s00493-026-00217-y)\
    *with [Hannaneh Akrami](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/hannaneh-akrami), [Roshan Raj](https://sites.google.com/view/roshan-raj) and [László Végh](https://www.laszlovegh.eu/)*\
-   *Combinatorica, 2026 (to appear)*
+   *Combinatorica, 2026*
 1. [A Min-Max Relation on Dicuts and Dijoins in Weighted Chordal Digraphs](http://doi.org/10.1002/jgt.70076)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
-   *Journal of Graph Theory, 2026 (to appear)*
+   *Journal of Graph Theory, 2026*
 1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/article/10.1007/s00493-025-00159-x)\
    *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
    *Combinatorica, 2025*
