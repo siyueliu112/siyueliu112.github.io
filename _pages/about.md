@@ -20,7 +20,7 @@ Conference Publications
 ------
 1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_14)\
    *with [Olha Silina](https://sites.google.com/view/olha-silina/)*\
-   *Integer Programming and Combinatorial Optimization (IPCO), 2026 (to appear)*
+   *Integer Programming and Combinatorial Optimization (IPCO), 2026*
 1. [Weighted Chairman Assignment and Flow-Time Scheduling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.98)\
    *with [Victor Reis](https://victoreis.github.io/)*\
    *Innovations in Theoretical Computer Science (ITCS), 2026*
