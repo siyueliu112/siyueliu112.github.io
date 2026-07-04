@@ -18,7 +18,7 @@ Publications
 
 Conference Publications
 ------
-1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://arxiv.org/abs/2603.17424)\
+1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_14)\
    *with [Olha Silina](https://sites.google.com/view/olha-silina/)*\
    *Integer Programming and Combinatorial Optimization (IPCO), 2026 (to appear)*
 1. [Weighted Chairman Assignment and Flow-Time Scheduling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.98)\
@@ -40,6 +40,9 @@ Conference Publications
 
 Journal Publications
 ------
+1. [Strongly Connected Orientations and Integer Lattices](https://arxiv.org/abs/2410.13665)\
+   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [Olha Silina](https://sites.google.com/view/olha-silina/)*\
+   *Mathematics of Operations Research (to appear), 2026*
 1. [Matroids are Equitable](https://link.springer.com/article/10.1007/s00493-026-00217-y)\
    *with [Hannaneh Akrami](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/hannaneh-akrami), [Roshan Raj](https://sites.google.com/view/roshan-raj) and [László Végh](https://www.laszlovegh.eu/)*\
    *Combinatorica, 2026*
