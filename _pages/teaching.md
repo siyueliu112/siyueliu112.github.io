@@ -42,7 +42,7 @@ This is a graduate-level course on matroids and submodular functions. We will co
 
 ## Evaluation
 
-Students choose one of the following two options.
+You may choose one of the following two options.
 
 | Option | Deliverables | Required discussion |
 |:--|:--|:--|
