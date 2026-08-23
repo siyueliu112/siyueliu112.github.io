@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+.page__title {
+  display: none;
+}
+</style>
+
 # 47-853 Special Topics on Combinatorial Optimization: Matroids and Submodular Optimization
 
 ## About
