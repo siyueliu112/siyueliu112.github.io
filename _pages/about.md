@@ -42,7 +42,7 @@ Journal Publications
 ------
 1. [Strongly Connected Orientations and Integer Lattices](https://pubsonline.informs.org/doi/10.1287/moor.2025.1030)\
    *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [Olha Silina](https://sites.google.com/view/olha-silina/)*\
-   *Mathematics of Operations Research (to appear), 2026*
+   *Mathematics of Operations Research, 2026*
 1. [Matroids are Equitable](https://link.springer.com/article/10.1007/s00493-026-00217-y)\
    *with [Hannaneh Akrami](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/hannaneh-akrami), [Roshan Raj](https://sites.google.com/view/roshan-raj) and [László Végh](https://www.laszlovegh.eu/)*\
    *Combinatorica, 2026*
