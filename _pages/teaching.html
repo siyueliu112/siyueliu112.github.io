@@ -1,12 +1,45 @@
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
+# 47-853 Special Topics on Combinatorial Optimization: Matroids and Submodular Optimization
 
-{% include base_path %}
+## About
+This is a graduate-level course on matroids and submodular functions. We will cover the following topics: 1. submodular minimization (e.g., Lovász extension, principal partition), 2. submodular maximization (e.g., greedy, local search, continuous greedy, contention resolution scheme), and 3. matroids (e.g., matroid intersection, matroid union, packing and covering common bases/independent sets, matroid equitability).
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Schedule
+
+**Location**: TEP 5219, MW 9:00-10:50 am
+
+| Week | Module | Topics and readings |
+|:--:|:--|:--|
+| **Part I** | **Submodular minimization** |  |
+| 1 | Matroid basics | Kruskal's algorithm for minimum spanning trees; matroid intersection; matroid union.<br>**Readings:** Edmonds ([Minimum Partition of a Matroid into Independent Subsets](https://doi.org/10.6028/jres.069B.004)); Edmonds ([Matroid Intersection](https://doi.org/10.1016/S0167-5060(08)70817-3)). |
+| 2 | Polyhedral foundations | Matroid base polytope; polymatroids; submodular functions.<br>**Reading:** Edmonds ([Submodular Functions, Matroids, and Certain Polyhedra](https://doi.org/10.1007/3-540-36478-1_2)). |
+| 3 | Lovász extension and minimization | Lovász extension; ellipsoid algorithm; submodular function minimization.<br>**Reading:** Lovász ([Submodular Functions and Convexity](https://doi.org/10.1007/978-3-642-68874-4_10)). |
+| 4 | Principal partition | Spanning-tree packing; arboricity; principal partitions and principal partition sequences.<br>**Readings:** Kishi and Kajitani ([Maximally Distant Trees and Principal Partition of a Linear Graph](https://doi.org/10.1109/TCT.1969.1082966)); Fujishige ([Theory of Principal Partitions Revisited](https://doi.org/10.1007/978-3-540-76796-1_7)); Narayanan ([The Principal Lattice of Partitions of a Submodular Function](https://doi.org/10.1016/0024-3795(91)90070-D)). |
+| 5 | Combinatorial minimization | Symmetric submodular function minimization; submodular function minimization.<br>**Readings:** Queyranne ([Minimizing Symmetric Submodular Functions](https://doi.org/10.1007/BF01585863)); Schrijver ([A Combinatorial Algorithm Minimizing Submodular Functions in Strongly Polynomial Time](https://doi.org/10.1006/jctb.2000.1989)); Iwata, Fleischer, and Fujishige ([A Combinatorial Strongly Polynomial Algorithm for Minimizing Submodular Functions](https://doi.org/10.1145/502090.502096)). |
+| **Part II** | **Submodular maximization** |  |
+| 6 | Greedy algorithms | Greedy $1/2$-approximation for monotone submodular maximization under a matroid constraint; optimal greedy $(1-1/e)$-approximation for monotone submodular maximization under a cardinality constraint.<br>**Readings:** Cornuéjols, Fisher, and Nemhauser ([On the Uncapacitated Location Problem](https://doi.org/10.1016/S0167-5060%2808%2970732-5)); Nemhauser, Wolsey, and Fisher ([An Analysis of Approximations for Maximizing Submodular Set Functions - I](https://doi.org/10.1007/BF01588971)). |
+| 7 | Unconstrained maximization and local search | Uniform-sampling $1/4$-approximation for unconstrained nonmonotone submodular maximization; monotone local-search $1/2$-approximation under a matroid constraint; geometric view of local search.<br>**Reading:** Bruggmann and Zenklusen ([Submodular Maximization Through the Lens of Linear Programming](https://doi.org/10.1287/moor.2018.0965)).<br>**Optional:** Optimal double-greedy $1/2$-approximation for unconstrained nonmonotone submodular maximization - Buchbinder et al. ([A Tight Linear Time (1/2)-Approximation for Unconstrained Submodular Maximization](https://doi.org/10.1137/130929205)); iterated local-search $1/4$-approximation for nonmonotone submodular maximization under a matroid constraint - Lee et al. ([Non-monotone Submodular Maximization under Matroid and Knapsack Constraints](https://doi.org/10.1145/1536414.1536459)). |
+| 8 | Continuous greedy | Multilinear and other concave extensions; optimal continuous-greedy $(1-1/e)$-approximation for monotone maximization under a matroid constraint.<br>**Reading:** Călinescu et al. ([Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://doi.org/10.1137/080733991)). |
+| 9 | Measured continuous greedy and rounding | Measured continuous-greedy $1/e$-approximation for nonmonotone submodular maximization under a matroid constraint; pipage rounding; randomized swap rounding for matroids and matroid intersection.<br>**Readings:** Feldman, Naor, and Schwartz ([A Unified Continuous Greedy Algorithm for Submodular Maximization](https://doi.org/10.1109/FOCS.2011.46)); Chekuri, Vondrák, and Zenklusen ([Dependent Randomized Rounding via Exchange Properties of Combinatorial Structures](https://doi.org/10.1109/FOCS.2010.60)); Chekuri, Vondrák, and Zenklusen ([Multi-budgeted Matchings and Matroid Intersection via Dependent Rounding](https://doi.org/10.1137/1.9781611973082.82)). |
+| 10 | Contention resolution schemes | FKG inequality; contention resolution for submodular maximization; simple $(b,1-b)$-balanced and optimal $(1,1-1/e)$-balanced schemes for the matroid polytope.<br>**Reading:** Chekuri, Vondrák, and Zenklusen ([Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes](https://doi.org/10.1145/1993636.1993740)). |
+| 11 | Nonoblivious local search and Poisson processes | Nonoblivious local search for monotone maximization; Poisson process for monotone maximization.<br>**Readings:** Filmus and Ward ([Monotone Submodular Maximization over a Matroid via Non-Oblivious Local Search](https://doi.org/10.1137/130920277)); Ganz Rozenman et al. ([A Poisson Process for Submodular Maximization](https://doi.org/10.1145/3798129.3800918)).<br>**Optional:** Deterministic algorithm for monotone submodular maximization - Buchbinder and Feldman ([Deterministic Algorithm and Faster Algorithm for Submodular Maximization Subject to a Matroid Constraint](https://doi.org/10.1137/24M1698122)); Poisson process for nonmonotone submodular maximization - Kulik et al. ([If It Is Good Then Drop It - A Spiteful Poisson Process for Submodular Maximization](https://arxiv.org/abs/2608.05062)). |
+| **Part III** | **Selected topics** |  |
+| 12 | Packing and covering common bases / independent sets | Arborescence packing; hardness of packing common bases; matroid-intersection coloring.<br>**Readings:** Edmonds ([Edge-Disjoint Branchings](https://cir.nii.ac.jp/crid/1573387451139139584)); Bérczi and Schwarcz ([Complexity of Packing Common Bases in Matroids](https://doi.org/10.1007/s10107-020-01497-y)); Aharoni and Berger ([The Intersection of a Matroid and a Simplicial Complex](https://doi.org/10.1090/S0002-9947-06-03833-5)); Arndt et al. ([Approximation Algorithms for Matroid-Intersection Coloring with Applications to Rota's Basis Conjecture](https://arxiv.org/abs/2604.03735)).<br>**Optional:** Woodall's conjecture on packing dijoins and approximation - Woodall ([Menger and König Systems](https://doi.org/10.1007/BFb0070416)); Cornuéjols, Liu, and Ravi ([Approximately Packing Dijoins via Nowhere-Zero Flows](https://doi.org/10.1007/s00493-025-00159-x)). |
+| 13 | Matroid equitability | Gabow's conjecture; matroids are equitable.<br>**Readings:** Gabow ([Decomposing Symmetric Exchanges in Matroid Bases](https://doi.org/10.1007/BF01580672)); Akrami et al. ([Matroids Are Equitable](https://doi.org/10.1007/s00493-026-00217-y)); Bérczi et al. ([Weighted Equitability and Matroid-Constrained Discrepancy](https://arxiv.org/abs/2608.13983)).<br>**Optional:** Gabow's conjecture and White's conjecture on regular matroids - Bérczi, Mátravölgyi, and Schwarcz ([Reconfiguration of Basis Pairs in Regular Matroids](https://doi.org/10.1145/3618260.3649660)). |
+| 14 | Congruency-constrained matroids and submodular minimization | Delta-modular integer programming and congruency constraints; congruency-constrained submodular minimization.<br>**Readings:** Artmann, Weismantel, and Zenklusen ([A Strongly Polynomial Algorithm for Bimodular Integer Linear Programming](https://doi.org/10.1145/3055399.3055473)); Nägele, Sudakov, and Zenklusen ([Submodular Minimization under Congruency Constraints](https://doi.org/10.1007/s00493-019-3900-1)).<br>**Optional:** Congruency-constrained matroid bases - Liu and Xu ([On the Congruency-Constrained Matroid Base](https://doi.org/10.1007/978-3-031-59835-7_21)). |
+
+
+## Evaluation
+
+Students choose one of the following two options.
+
+| Option | Deliverables | Required discussion |
+|:--|:--|:--|
+| Problem sets | Two problem sets, each with approximately five questions | Schedule one meeting with the instructor for each problem set and explain the solutions |
+| Research report | Choose from an instructor-provided list of research questions, or suggest a topic subject to approval; write a 5-10 page report that summarizes the topic and suggests new research | Schedule one discussion with the instructor |
+
+## AI-use policy
+
+- AI may be used to explore research topics.
+- AI may not be used to solve homework problems.
+- Every AI-assisted solution or result must be acknowledged.
+- The final report and homework must be written by yourself.
