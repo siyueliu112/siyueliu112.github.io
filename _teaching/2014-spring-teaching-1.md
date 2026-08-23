@@ -1,3 +1,12 @@
+---
+title: "47-853 Matroids and Submodular Optimization"
+collection: teaching
+type: "Ph.D. course"
+permalink: /teaching/47853-matroids-submodular-optimization
+venue: "Carnegie Mellon University"
+date: 2026-08-01
+---
+
 # 47-853 Special Topics on Combinatorial Optimization: Matroids and Submodular Optimization
 
 ## About
