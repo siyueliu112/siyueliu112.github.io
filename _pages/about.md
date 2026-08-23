@@ -40,7 +40,7 @@ Conference Publications
 
 Journal Publications
 ------
-1. [Strongly Connected Orientations and Integer Lattices](https://arxiv.org/abs/2410.13665)\
+1. [Strongly Connected Orientations and Integer Lattices](https://pubsonline.informs.org/doi/10.1287/moor.2025.1030)\
    *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [Olha Silina](https://sites.google.com/view/olha-silina/)*\
    *Mathematics of Operations Research (to appear), 2026*
 1. [Matroids are Equitable](https://link.springer.com/article/10.1007/s00493-026-00217-y)\
@@ -64,6 +64,8 @@ Journal Publications
    
 Preprints
 ------
+1. [Weighted Equitability and Matroid-Constrained Discrepancy](https://arxiv.org/abs/2608.13983)\
+   *with [Kristóf Bérczi](https://berkri.web.elte.hu/), [Victor Reis](https://victoreis.github.io/) and [Jakub Tarnawski](https://jakub.tarnawski.org/)*
 1. [Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order](https://arxiv.org/abs/2605.14296)\
    *with [Niv Buchbinder](https://www.tau.ac.il/~nivb/), [Moran Feldman](https://cs.haifa.ac.il/~moranfe/) and [Sherry Sarkar](https://sherrysarkar.github.io/)*
 
