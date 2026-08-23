@@ -20,7 +20,7 @@ This is a graduate-level course on matroids and submodular functions. We will co
 
 **Location**: TEP 5219, MW 9:00-10:50 am
 
-| Lecture | Topics | Content |
+| Lecture | Topic | Content |
 |:--:|:--|:--|
 | **Part I** | **Submodular minimization** |  |
 | 1 | **Matroid basics** | Kruskal's algorithm for minimum spanning trees; matroid intersection; matroid union.<br>**Readings:** [Edmonds (1979)](https://doi.org/10.1016/S0167-5060(08)70817-3); [Edmonds (1965)](https://doi.org/10.6028/jres.069B.004). |
