@@ -50,7 +50,7 @@ You may choose one of the following two options.
 
 | Option | Deliverables | Required discussion |
 |:--|:--|:--|
-| Problem sets | HW1 | Schedule one meeting with the instructor for each problem set and explain the solutions |
+| Problem sets | [HW1](/files/lecture-notes/HW1.pdf) | Schedule one meeting with the instructor for each problem set and explain the solutions |
 | Research report | Choose from an instructor-provided list of research questions, or suggest a topic subject to approval; write a 5-10 page report that summarizes the topic and suggests new research | Schedule one discussion with the instructor |
 
 ## AI-use policy
