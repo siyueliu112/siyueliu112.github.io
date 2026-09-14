@@ -51,7 +51,7 @@ You may choose one of the following two options.
 | Option | Deliverables | Required discussion |
 |:--|:--|:--|
 | Problem sets | [HW1](/files/lecture-notes/HW1.pdf) (due: Sep 27 on Canvas) | Schedule one meeting with the instructor for each problem set and explain the solutions |
-| Research report | Choose from an instructor-provided list of research questions, or suggest a topic subject to approval; write a 5-10 page report that summarizes the topic and suggests new research | Schedule one discussion with the instructor |
+| Research report | Choose from an instructor-provided [list](/files/lecture-notes/Open_problems.pdf) of research questions, or suggest a topic subject to approval; write a 5-10 page report that summarizes the topic and suggests new research | Depending on how many people choose this option, we may either have a final class presentation, or schedule individual discussions with the instructor |
 
 ## AI-use policy
 
