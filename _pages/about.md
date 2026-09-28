@@ -16,28 +16,6 @@ I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/)
 Publications
 ======
 
-Conference Publications
-------
-1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_14)\
-   *with [Olha Silina](https://sites.google.com/view/olha-silina/)*\
-   *Integer Programming and Combinatorial Optimization (IPCO), 2026*
-1. [Weighted Chairman Assignment and Flow-Time Scheduling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.98)\
-   *with [Victor Reis](https://victoreis.github.io/)*\
-   *Innovations in Theoretical Computer Science (ITCS), 2026*
-1. [Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations](https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.46/LIPIcs.ICALP.2025.46.pdf)\
-   *with [Karthik Chandrasekaran](https://karthik.ise.illinois.edu/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
-   *International Colloquium on Automata, Languages and Programming (ICALP), 2025*
-1. [Strongly Connected Orientations and Integer Lattices](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_1)\
-   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [Olha Silina](https://sites.google.com/view/olha-silina/)*\
-   *Integer Programming and Combinatorial Optimization (IPCO), 2025*
-1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
-   *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
-   *Integer Programming and Combinatorial Optimization (IPCO), 2024*\
-   **Best Paper Award**
-1. [On the Congruency-Constrained Matroid Base](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_21)\
-   *with [Chao Xu](https://chaoxu.prof/)*\
-   *Integer Programming and Combinatorial Optimization (IPCO), 2024*
-
 Journal Publications
 ------
 1. [Strongly Connected Orientations and Integer Lattices](https://pubsonline.informs.org/doi/10.1287/moor.2025.1030)\
@@ -61,13 +39,37 @@ Journal Publications
 1. [Convexification Techniques for Fractional Programs](https://link.springer.com/article/10.1007/s10107-024-02131-x)\
    *with [Taotao He](https://taotaoohe.github.io/) and [Mohit Tawarmalani](https://www.mohit.prof/)*\
    *Mathematical Programming Series A, 2024*
+
+Conference Publications
+------
+1. [Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order](https://arxiv.org/abs/2605.14296)\
+   *with [Niv Buchbinder](https://www.tau.ac.il/~nivb/), [Moran Feldman](https://cs.haifa.ac.il/~moranfe/) and [Sherry Sarkar](https://sherrysarkar.github.io/)*
+   *ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027* (to appear)
+1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_14)\
+   *with [Olha Silina](https://sites.google.com/view/olha-silina/)*\
+   *Integer Programming and Combinatorial Optimization (IPCO), 2026*
+1. [Weighted Chairman Assignment and Flow-Time Scheduling](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.98)\
+   *with [Victor Reis](https://victoreis.github.io/)*\
+   *Innovations in Theoretical Computer Science (ITCS), 2026*
+1. [Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations](https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.46/LIPIcs.ICALP.2025.46.pdf)\
+   *with [Karthik Chandrasekaran](https://karthik.ise.illinois.edu/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
+   *International Colloquium on Automata, Languages and Programming (ICALP), 2025*
+1. [Strongly Connected Orientations and Integer Lattices](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_1)\
+   *with [Ahmad Abdi](https://ahmadabdi.com/), [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [Olha Silina](https://sites.google.com/view/olha-silina/)*\
+   *Integer Programming and Combinatorial Optimization (IPCO), 2025*
+1. [Approximately Packing Dijoins via Nowhere-Zero Flows](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6)\
+   *with [Gérard Cornuéjols](https://www.andrew.cmu.edu/user/gc0v/) and [R. Ravi](https://www.contrib.andrew.cmu.edu/~ravi/)*\
+   *Integer Programming and Combinatorial Optimization (IPCO), 2024*\
+   **Best Paper Award**
+1. [On the Congruency-Constrained Matroid Base](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_21)\
+   *with [Chao Xu](https://chaoxu.prof/)*\
+   *Integer Programming and Combinatorial Optimization (IPCO), 2024*
+
    
 Preprints
 ------
 1. [Weighted Equitability and Matroid-Constrained Discrepancy](https://arxiv.org/abs/2608.13983)\
    *with [Kristóf Bérczi](https://berkri.web.elte.hu/), [Victor Reis](https://victoreis.github.io/) and [Jakub Tarnawski](https://jakub.tarnawski.org/)*
-1. [Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order](https://arxiv.org/abs/2605.14296)\
-   *with [Niv Buchbinder](https://www.tau.ac.il/~nivb/), [Moran Feldman](https://cs.haifa.ac.il/~moranfe/) and [Sherry Sarkar](https://sherrysarkar.github.io/)*
 
 Teachings
 ======
