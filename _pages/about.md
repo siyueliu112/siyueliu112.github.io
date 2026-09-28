@@ -43,7 +43,7 @@ Journal Publications
 Conference Publications
 ------
 1. [Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order](https://arxiv.org/abs/2605.14296)\
-   *with [Niv Buchbinder](https://www.tau.ac.il/~nivb/), [Moran Feldman](https://cs.haifa.ac.il/~moranfe/) and [Sherry Sarkar](https://sherrysarkar.github.io/)*
+   *with [Niv Buchbinder](https://www.tau.ac.il/~nivb/), [Moran Feldman](https://cs.haifa.ac.il/~moranfe/) and [Sherry Sarkar](https://sherrysarkar.github.io/)*\
    *ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027* (to appear)
 1. [Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations](https://link.springer.com/chapter/10.1007/978-3-032-28691-8_14)\
    *with [Olha Silina](https://sites.google.com/view/olha-silina/)*\
