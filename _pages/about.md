@@ -68,6 +68,8 @@ Conference Publications
    
 Preprints
 ------
+1. [Proximity Theorem and FPT Algorithm for Minimum Group-labeled Matroid Bases](/files/Weighted_proximity.pdf)\
+   *with [Taihei Oki](https://www.opt.mist.i.u-tokyo.ac.jp/~oki/) and [Chao Xu](https://chaoxu.prof/)*
 1. [Weighted Equitability and Matroid-Constrained Discrepancy](https://arxiv.org/abs/2608.13983)\
    *with [Kristóf Bérczi](https://berkri.web.elte.hu/), [Victor Reis](https://victoreis.github.io/) and [Jakub Tarnawski](https://jakub.tarnawski.org/)*
 
