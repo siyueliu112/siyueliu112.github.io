@@ -82,6 +82,7 @@ body.page-about .about-copy .text-button{font-size:inherit}
 body.page-about .page-intro h1{font-size:50px}
 body.page-about .about-copy h2{font-size:27px}
 @media(max-width:700px){body.page-about .about-copy{font-size:16px}body.page-about .page-intro h1{font-size:40px}body.page-about .about-copy h2{font-size:25px}.profile .profile-links{display:grid;grid-column:1/-1;margin:18px 0 0;gap:6px}}
-.no-sidebar .paper{display:grid;grid-template-columns:32px minmax(0,1fr);gap:15px}
+/* Only numbered cards have a separate number column; older scripts remain readable. */
+.no-sidebar .paper[data-paper-number]{display:grid;grid-template-columns:32px minmax(0,1fr);gap:15px}
 .paper-number{font:400 16px/1.6 var(--sans);font-variant-numeric:tabular-nums;color:#000;padding-top:2px}
-@media(max-width:700px){.no-sidebar .paper{grid-template-columns:26px minmax(0,1fr);gap:10px}.paper-number{font-size:15px}}
+@media(max-width:700px){.no-sidebar .paper[data-paper-number]{grid-template-columns:26px minmax(0,1fr);gap:10px}.paper-number{font-size:15px}}
