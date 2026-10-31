@@ -69,10 +69,19 @@ body:is(.page-about,.page-publications,.page-teaching) .masthead nav a,
 body:is(.page-about,.page-publications,.page-teaching) .masthead nav a *{color:#000}
 #publications[data-view="topic"] .group-heading h2{font-weight:700}
 /* Match all main About text to the lead paragraph, and align the Scholar icon. */
-body.page-about .about-copy{font-size:18px}
+body.page-about .about-copy{font-size:17px}
 body.page-about .about-copy>p:first-child,
 body.page-about .about-teaching h3,
 body.page-about .about-copy .availability,
 body.page-about .about-copy .text-button{font-size:inherit}
-.scholar-icon{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}
-.scholar-icon svg{display:block}
+/* Keep Email and ORCID icons outside the links and number papers consistently. */
+.profile-link{display:flex;align-items:center;gap:10px;min-height:22px}
+.profile-link>.profile-icon{display:inline-flex;align-items:center;justify-content:center;width:16px;height:16px;flex:0 0 16px;line-height:1}
+.profile-icon svg{display:block;width:16px;height:16px}
+.profile-link>a{display:inline-flex;align-items:center;line-height:22px;white-space:nowrap}
+body.page-about .page-intro h1{font-size:50px}
+body.page-about .about-copy h2{font-size:27px}
+@media(max-width:700px){body.page-about .about-copy{font-size:16px}body.page-about .page-intro h1{font-size:40px}body.page-about .about-copy h2{font-size:25px}.profile .profile-links{display:grid;grid-column:1/-1;margin:18px 0 0;gap:6px}}
+.no-sidebar .paper{display:grid;grid-template-columns:32px minmax(0,1fr);gap:15px}
+.paper-number{font:400 16px/1.6 var(--sans);font-variant-numeric:tabular-nums;color:#000;padding-top:2px}
+@media(max-width:700px){.no-sidebar .paper{grid-template-columns:26px minmax(0,1fr);gap:10px}.paper-number{font-size:15px}}
