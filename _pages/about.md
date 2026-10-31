@@ -11,7 +11,9 @@ Hi, welcome to my website! I'm Siyue Liu (刘思月), a fifth-year Ph.D. student
 
 I graduated from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in 2022 with a Bachelor in Economics, where Professor [Taotao He](https://taotaoohe.github.io/) guided me to the world of optimization. I was a research intern at Microsoft Research, Redmond, in the [Algorithms group](https://www.microsoft.com/en-us/research/group/algorithms-redmond/) in Summer 2025, mentored by [Victor Reis](https://victoreis.github.io/). During my Ph.D., I long-term visited [London School of Economics (LSE)](https://www.lse.ac.uk/mathematics) in Fall 2023, hosted by Professor [Ahmad Abdi](https://ahmadabdi.com/), [University of Bonn](https://www.uni-bonn.de/en/home) in Fall 2025, hosted by Professor [László Végh](https://www.laszlovegh.eu/), and [Eötvös Loránd University (ELTE)](https://www.elte.hu/en) in Spring 2026, hosted by Professor [Kristóf Bérczi](https://berkri.web.elte.hu/). Besides, I'm grateful to the mentorship and guidance from Professors [Christopher Thomas Ryan](https://christopher-thomas-ryan.github.io/), [Tim Huh](https://www.sauder.ubc.ca/people/tim-huh) and [Fatma Kılınç-Karzan](https://www.andrew.cmu.edu/user/fkilinc/) and many others in the early stage of my career.
 
-**I'm on the 2026-2027 job market, looking for tenure-track faculty, research scientist, and postdoc positions.**
+**I'm on the 2026-2027 academic job market, looking for tenure-track faculty, research scientist, and postdoc positions.**
+
+**I'll be giving a talk at INFORMS Annual Meeting in session SE26, 4:15 PM, Sunday Nov 1, Moscone South-204 (Level 2)**
 
 Publications
 ======
@@ -68,7 +70,7 @@ Conference Publications
    
 Preprints
 ------
-1. [Proximity Theorem and FPT Algorithm for Minimum Group-labeled Matroid Bases](/files/Weighted_proximity.pdf)\
+1. [Proximity Theorem and FPT Algorithm for Minimum Group-labeled Matroid Bases](https://arxiv.org/abs/2610.32798)\
    *with [Taihei Oki](https://www.opt.mist.i.u-tokyo.ac.jp/~oki/) and [Chao Xu](https://chaoxu.prof/)*
 1. [Weighted Equitability and Matroid-Constrained Discrepancy](https://arxiv.org/abs/2608.13983)\
    *with [Kristóf Bérczi](https://berkri.web.elte.hu/), [Victor Reis](https://victoreis.github.io/) and [Jakub Tarnawski](https://jakub.tarnawski.org/)*
