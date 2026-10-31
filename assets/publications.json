@@ -1,0 +1,390 @@
+[
+  {
+    "id": "paper-15",
+    "title": "Proximity Theorem and FPT Algorithm for Minimum Group-labeled Matroid Bases",
+    "authors": [
+      {
+        "name": "Taihei Oki",
+        "url": "https://www.opt.mist.i.u-tokyo.ac.jp/~oki/"
+      },
+      {
+        "name": "Chao Xu",
+        "url": "https://chaoxu.prof/"
+      }
+    ],
+    "topic": "Matroid Theory",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Preprint",
+        "venue": "Preprint",
+        "year": 2026,
+        "url": "https://arxiv.org/abs/2610.32798",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2610.32798",
+    "group_year": 2027
+  },
+  {
+    "id": "paper-16",
+    "title": "Weighted Equitability and Matroid-Constrained Discrepancy",
+    "authors": [
+      {
+        "name": "Kristóf Bérczi",
+        "url": "https://berkri.web.elte.hu/"
+      },
+      {
+        "name": "Victor Reis",
+        "url": "https://victoreis.github.io/"
+      },
+      {
+        "name": "Jakub Tarnawski",
+        "url": "https://jakub.tarnawski.org/"
+      }
+    ],
+    "topic": "Matroid Theory",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Preprint",
+        "venue": "Preprint",
+        "year": 2026,
+        "url": "https://arxiv.org/abs/2608.13983",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2608.13983",
+    "group_year": 2027
+  },
+  {
+    "id": "paper-8",
+    "title": "Semi-Streaming Algorithms for Submodular Maximization under Random Arrival Order",
+    "authors": [
+      {
+        "name": "Niv Buchbinder",
+        "url": "https://www.tau.ac.il/~nivb/"
+      },
+      {
+        "name": "Moran Feldman",
+        "url": "https://cs.haifa.ac.il/~moranfe/"
+      },
+      {
+        "name": "Sherry Sarkar",
+        "url": "https://sherrysarkar.github.io/"
+      }
+    ],
+    "topic": "Approximation Algorithms",
+    "year": 2027,
+    "versions": [
+      {
+        "category": "Conference",
+        "venue": "ACM-SIAM Symposium on Discrete Algorithms (SODA), 2027",
+        "year": 2027,
+        "url": "https://arxiv.org/abs/2605.14296",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2605.14296",
+    "group_year": 2027
+  },
+  {
+    "id": "paper-9",
+    "title": "Lattice Structure and Efficient Basis Construction for Strongly Connected Orientations",
+    "authors": [
+      {
+        "name": "Olha Silina",
+        "url": "https://sites.google.com/view/olha-silina/"
+      }
+    ],
+    "topic": "Packing and Covering",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Conference",
+        "venue": "Integer Programming and Combinatorial Optimization (IPCO), 2026",
+        "year": 2026,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-28691-8_14",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2603.17424",
+    "group_year": 2026
+  },
+  {
+    "id": "paper-10",
+    "title": "Weighted Chairman Assignment and Flow-Time Scheduling",
+    "authors": [
+      {
+        "name": "Victor Reis",
+        "url": "https://victoreis.github.io/"
+      }
+    ],
+    "topic": "Approximation Algorithms",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Conference",
+        "venue": "Innovations in Theoretical Computer Science (ITCS), 2026",
+        "year": 2026,
+        "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.98",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2511.18546",
+    "group_year": 2026
+  },
+  {
+    "id": "paper-2",
+    "title": "Matroids are Equitable",
+    "authors": [
+      {
+        "name": "Hannaneh Akrami",
+        "url": "https://www.mpi-inf.mpg.de/departments/algorithms-complexity/people/current-members/hannaneh-akrami"
+      },
+      {
+        "name": "Roshan Raj",
+        "url": "https://sites.google.com/view/roshan-raj"
+      },
+      {
+        "name": "László Végh",
+        "url": "https://www.laszlovegh.eu/"
+      }
+    ],
+    "topic": "Matroid Theory",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Combinatorica, 2026",
+        "year": 2026,
+        "url": "https://link.springer.com/article/10.1007/s00493-026-00217-y",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2507.12100",
+    "group_year": 2026
+  },
+  {
+    "id": "paper-3",
+    "title": "A Min-Max Relation on Dicuts and Dijoins in Weighted Chordal Digraphs",
+    "authors": [
+      {
+        "name": "Gérard Cornuéjols",
+        "url": "https://www.andrew.cmu.edu/user/gc0v/"
+      },
+      {
+        "name": "R. Ravi",
+        "url": "https://www.contrib.andrew.cmu.edu/~ravi/"
+      }
+    ],
+    "topic": "Packing and Covering",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Journal of Graph Theory, 2026",
+        "year": 2026,
+        "url": "http://doi.org/10.1002/jgt.70076",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2501.10918",
+    "group_year": 2026
+  },
+  {
+    "id": "paper-1",
+    "title": "Strongly Connected Orientations and Integer Lattices",
+    "authors": [
+      {
+        "name": "Ahmad Abdi",
+        "url": "https://ahmadabdi.com/"
+      },
+      {
+        "name": "Gérard Cornuéjols",
+        "url": "https://www.andrew.cmu.edu/user/gc0v/"
+      },
+      {
+        "name": "Olha Silina",
+        "url": "https://sites.google.com/view/olha-silina/"
+      }
+    ],
+    "topic": "Packing and Covering",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Mathematics of Operations Research, 2026",
+        "year": 2026,
+        "url": "https://pubsonline.informs.org/doi/10.1287/moor.2025.1030",
+        "award": ""
+      },
+      {
+        "category": "Conference",
+        "venue": "Integer Programming and Combinatorial Optimization (IPCO), 2025",
+        "year": 2025,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-93112-3_1",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2410.13665",
+    "group_year": 2026
+  },
+  {
+    "id": "paper-11",
+    "title": "Minimum Cost Nowhere-zero Flows and Cut-balanced Orientations",
+    "authors": [
+      {
+        "name": "Karthik Chandrasekaran",
+        "url": "https://karthik.ise.illinois.edu/"
+      },
+      {
+        "name": "R. Ravi",
+        "url": "https://www.contrib.andrew.cmu.edu/~ravi/"
+      }
+    ],
+    "topic": "Approximation Algorithms",
+    "year": 2025,
+    "versions": [
+      {
+        "category": "Conference",
+        "venue": "International Colloquium on Automata, Languages and Programming (ICALP), 2025",
+        "year": 2025,
+        "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol334-icalp2025/LIPIcs.ICALP.2025.46/LIPIcs.ICALP.2025.46.pdf",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2504.18767",
+    "group_year": 2025
+  },
+  {
+    "id": "paper-4",
+    "title": "Approximately Packing Dijoins via Nowhere-Zero Flows",
+    "authors": [
+      {
+        "name": "Gérard Cornuéjols",
+        "url": "https://www.andrew.cmu.edu/user/gc0v/"
+      },
+      {
+        "name": "R. Ravi",
+        "url": "https://www.contrib.andrew.cmu.edu/~ravi/"
+      }
+    ],
+    "topic": "Packing and Covering",
+    "year": 2025,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Combinatorica, 2025",
+        "year": 2025,
+        "url": "https://link.springer.com/article/10.1007/s00493-025-00159-x",
+        "award": ""
+      },
+      {
+        "category": "Conference",
+        "venue": "Integer Programming and Combinatorial Optimization (IPCO), 2024",
+        "year": 2024,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-59835-7_6",
+        "award": "Best Paper Award"
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2311.04337",
+    "group_year": 2025
+  },
+  {
+    "id": "paper-5",
+    "title": "On the Smallest Support Size of Integer Solutions to Linear Equations",
+    "authors": [
+      {
+        "name": "Yatharth Dubey",
+        "url": "https://sites.google.com/view/yatharthdubey/"
+      }
+    ],
+    "topic": "Integer Programming",
+    "year": 2025,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Mathematical Programming Series A, 2025",
+        "year": 2025,
+        "url": "https://link.springer.com/article/10.1007/s10107-025-02202-7",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2307.08826",
+    "group_year": 2025
+  },
+  {
+    "id": "paper-6",
+    "title": "Assortment Optimization Under the Multinomial Logit Choice Model with Product-specific Capacities",
+    "authors": [
+      {
+        "name": "Woonghee Tim Huh",
+        "url": "https://www.sauder.ubc.ca/people/tim-huh"
+      }
+    ],
+    "topic": "Approximation Algorithms",
+    "year": 2025,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Operations Research Letters, 2025",
+        "year": 2025,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167637724001743",
+        "award": ""
+      }
+    ],
+    "arxiv_url": null,
+    "group_year": 2025
+  },
+  {
+    "id": "paper-14",
+    "title": "On the Congruency-Constrained Matroid Base",
+    "authors": [
+      {
+        "name": "Chao Xu",
+        "url": "https://chaoxu.prof/"
+      }
+    ],
+    "topic": "Matroid Theory",
+    "year": 2024,
+    "versions": [
+      {
+        "category": "Conference",
+        "venue": "Integer Programming and Combinatorial Optimization (IPCO), 2024",
+        "year": 2024,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-59835-7_21",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2311.11737",
+    "group_year": 2024
+  },
+  {
+    "id": "paper-7",
+    "title": "Convexification Techniques for Fractional Programs",
+    "authors": [
+      {
+        "name": "Taotao He",
+        "url": "https://taotaoohe.github.io/"
+      },
+      {
+        "name": "Mohit Tawarmalani",
+        "url": "https://www.mohit.prof/"
+      }
+    ],
+    "topic": "Integer Programming",
+    "year": 2024,
+    "versions": [
+      {
+        "category": "Journal",
+        "venue": "Mathematical Programming Series A, 2024",
+        "year": 2024,
+        "url": "https://link.springer.com/article/10.1007/s10107-024-02131-x",
+        "award": ""
+      }
+    ],
+    "arxiv_url": "https://arxiv.org/abs/2310.08424",
+    "group_year": 2024
+  }
+]
