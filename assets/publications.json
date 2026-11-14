@@ -1,5 +1,40 @@
 [
   {
+    "id": "paper-17",
+    "title": "Approximate Covering and Packing in Polymatroids",
+    "authors": [
+      {
+        "name": "Kristóf Bérczi",
+        "url": "https://berkri.web.elte.hu/"
+      },
+      {
+        "name": "Karthekeyan Chandrasekaran",
+        "url": "https://karthe.web.engr.illinois.edu/"
+      },
+      {
+        "name": "Chandra Chekuri",
+        "url": "https://chekuri.cs.illinois.edu/"
+      },
+      {
+        "name": "R. Ravi",
+        "url": "https://www.contrib.andrew.cmu.edu/~ravi/"
+      }
+    ],
+    "topic": "Packing and Covering",
+    "year": 2026,
+    "versions": [
+      {
+        "category": "Preprint",
+        "venue": "Preprint",
+        "year": 2026,
+        "url": "/assets/polymatroid.pdf",
+        "award": ""
+      }
+    ],
+    "arxiv_url": null,
+    "group_year": 2027
+  },
+  {
     "id": "paper-15",
     "title": "Proximity Theorem and FPT Algorithm for Minimum Group-labeled Matroid Bases",
     "authors": [

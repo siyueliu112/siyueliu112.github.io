@@ -5,7 +5,7 @@
   let view = new URLSearchParams(location.search).get('view') === 'topic' ? 'topic' : 'year';
   let papers = [];
   const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const safeUrl = url => /^https?:\/\//.test(url) ? escape(url) : '#';
+  const safeUrl = url => typeof url === 'string' && (/^https?:\/\//.test(url) || /^\/(?!\/)/.test(url)) ? escape(url) : '#';
   const authorList = paper => {
     const authors = [...paper.authors];
     if (!authors.some(author => author.name === 'Siyue Liu')) authors.push({name:'Siyue Liu'});
