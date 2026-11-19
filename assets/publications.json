@@ -32,7 +32,12 @@
       }
     ],
     "arxiv_url": null,
-    "group_year": 2027
+    "group_year": 2027,
+    "slides": [
+      {
+        "url": "/slides/polymatroid-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-15",
@@ -59,7 +64,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2610.32798",
-    "group_year": 2027
+    "group_year": 2027,
+    "slides": [
+      {
+        "url": "/slides/group-labeled-matroid-bases-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-16",
@@ -90,7 +100,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2608.13983",
-    "group_year": 2027
+    "group_year": 2027,
+    "slides": [
+      {
+        "url": "/slides/weighted-equitability-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-8",
@@ -144,7 +159,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2603.17424",
-    "group_year": 2026
+    "group_year": 2026,
+    "slides": [
+      {
+        "url": "/slides/lattice-basis-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-10",
@@ -167,7 +187,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2511.18546",
-    "group_year": 2026
+    "group_year": 2026,
+    "slides": [
+      {
+        "url": "/slides/weighted-chairman-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-2",
@@ -290,7 +315,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2504.18767",
-    "group_year": 2025
+    "group_year": 2025,
+    "slides": [
+      {
+        "url": "/slides/min-cost-flows-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-4",
@@ -324,7 +354,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2311.04337",
-    "group_year": 2025
+    "group_year": 2025,
+    "slides": [
+      {
+        "url": "/slides/approximate-dijoin-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-5",
@@ -347,7 +382,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2307.08826",
-    "group_year": 2025
+    "group_year": 2025,
+    "slides": [
+      {
+        "url": "/slides/integer-support-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-6",
@@ -393,7 +433,12 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2311.11737",
-    "group_year": 2024
+    "group_year": 2024,
+    "slides": [
+      {
+        "url": "/slides/congruency-matroid-base-slides.pdf"
+      }
+    ]
   },
   {
     "id": "paper-7",
@@ -420,6 +465,11 @@
       }
     ],
     "arxiv_url": "https://arxiv.org/abs/2310.08424",
-    "group_year": 2024
+    "group_year": 2024,
+    "slides": [
+      {
+        "url": "/slides/fractional-programming-slides.pdf"
+      }
+    ]
   }
 ]
